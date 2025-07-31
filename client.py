@@ -2,7 +2,7 @@
 # #pip install openai
 
 # client = OpenAI(
-#     api_key="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",
+#     api_key="OPEN_AI_API_KEY",
 # )
 
 # completion = client.chat.completions.create(
